@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to provide our client with an Excel workbook including an easy-to-run VBA macro able to analyze an entire dataset of stocks.\
+The purpose of this analysis is to provide our client with an Excel workbook including an easy-to-run VBA macro able to analyze an entire dataset of stocks. This tool will help him in its financial expertise.\
 The analysis was ran using two VBA scripts: the original script produced through the Module #2 and a refactored version of it. We would then have the opportunity to compare the performances of both scripts, and highlights the pros and cons of refactoring a code.
 
 ## Results
