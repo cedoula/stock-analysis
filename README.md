@@ -58,7 +58,8 @@ Let's have a look at the code from the original script:
         Cells(4 + i, 3).Value = endingPrice / startingPrice - 1
     Next i
 ```
-Here the script goes through an embedded loop over all the data with the variable "j" for each ticker with the variable "i". For 12 tickers, the program goes through all the dataset 12 times.\
+Here the script goes through nested loops over all the data with the variable "j" for each ticker with the variable "i". For 12 tickers, the program goes through all the dataset 12 times.
+
 The refactored version uses arrays for the results that are filled along going through all the data rows only one time. Here is the refactored code:
 ```
 '1a) Create a ticker Index
