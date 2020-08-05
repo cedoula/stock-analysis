@@ -1,4 +1,4 @@
-# **Stocks Data Analysis**
+# **Stock Data Analysis**
 
 ## Overview of Project
 
