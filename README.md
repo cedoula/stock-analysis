@@ -19,7 +19,8 @@ In 2017, all stocks except TERP have a positive return. 4 stocks even have over 
 This was a performing year for the green stocks.\
 \
 In 2018 mostly all green stock returns went in the red. Only ENPH and RUN continued to perform with respectively 81.9 and 84.0% that year.\
-ENPH has the highest total daily volume and was the most traded stock that year.\
+ENPH has the highest total daily volume and was the most traded stock that year.
+
 ENPH is globally the best performing green stock over 2017 and 2018.
 
 ### Performance Comparison Between Original and Refactored Scripts
